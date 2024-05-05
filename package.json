@@ -1,9 +1,12 @@
 {
-  "name": "atm",
+  "name": "abdullah00701-atm-machine",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "abdullah00701-atm-machine": "main.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
