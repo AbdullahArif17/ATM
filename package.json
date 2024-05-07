@@ -1,6 +1,6 @@
 {
   "name": "abdullah00701-Atm-Machine",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Atm Machine",
   "main": "index.js",
   "type": "module",
